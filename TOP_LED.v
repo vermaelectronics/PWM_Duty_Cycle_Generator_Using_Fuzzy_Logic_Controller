@@ -1,7 +1,7 @@
 // Code your design here
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: Bariflo Cybernetics Pvt. Ltd.
+// Company: National Institute of Technology, Warangal
 // Engineer: Sandeep Kumar Verma
 // 
 // Create Date: 04/22/2024 06:30:56 PM
@@ -12,11 +12,11 @@
 // Tool Versions: 
 // Description: 
 // 
-// Dependencies: 
+// Dependencies: @vermaelectronics
 // 
 // Revision:
 // Revision 0.01 - File Created
-// Additional Comments:
+// Additional Comments: Ask Before Use
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
