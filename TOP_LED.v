@@ -16,7 +16,7 @@
 // 
 // Revision:
 // Revision 0.01 - File Created
-// Additional Comments: Ask Before Use
+// Additional Comments: Please Ask Before Use
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
