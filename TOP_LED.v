@@ -1,14 +1,14 @@
 // Code your design here
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Bariflo Cybernetics Pvt. Ltd.
+// Engineer: Sandeep Kumar Verma
 // 
 // Create Date: 04/22/2024 06:30:56 PM
-// Design Name: 
+// Design Name: PWM Duty Cycle Gnerator for the Variation of Intensity of Light through LED using Fuzzy Logic Controller
 // Module Name: TOP
-// Project Name: 
-// Target Devices: 
+// Project Name: PWM Duty Cycle Generator Using Fuzzy Logic Controller
+// Target Devices: CORA Z7 SoC Developement Board (XC7Z010-1CLG400C)
 // Tool Versions: 
 // Description: 
 // 
